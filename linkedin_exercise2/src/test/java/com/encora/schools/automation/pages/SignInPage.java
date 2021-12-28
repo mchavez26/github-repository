@@ -32,5 +32,5 @@ public class SignInPage extends BasePage{
     public void clickSignin2(){
         clickElement(signInButton2By);
     }
-
+//change 1
 }
