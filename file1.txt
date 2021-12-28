@@ -8,3 +8,4 @@ new test 4 remote
 remote change
 
 New feature
+Other feature 2
