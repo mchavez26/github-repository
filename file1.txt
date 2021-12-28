@@ -5,7 +5,8 @@ new test 4 local
 Local change
 Other test
 new test 4 remote
-remote change
+remote change master
 
 New feature
 Other feature 2
+master change
