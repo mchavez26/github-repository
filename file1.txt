@@ -3,3 +3,7 @@ New test
 Other test local
 new test 4 local 
 Local change
+Other test
+new test 4 remote
+remote change
+
